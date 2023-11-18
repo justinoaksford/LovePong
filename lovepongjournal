@@ -6,3 +6,23 @@ Oct 16 10:00pm
 
 	10:40pm
 	I tried to skip steps in the tutorial and got stuck. Shouldn't do that again. Oops. Next time just follow the tutorial.
+
+Oct 22 7:50pm
+	55 minutes into this tutorial: https://www.youtube.com/watch?v=GfwpRU0cT10&t=1761s
+
+	Getting a bunch of stuff to work, but frustratingly trying to figure out why the ball isn't operating right. I think it may be time to try and start the ball over from scratch to make sure I understand what's going on exactly. 
+
+	HAHA just kidding. Writing this out helped me realized I was updating the wrong var in the render method.
+
+	Stopping point; implementing colliders.
+	https://youtu.be/GfwpRU0cT10?t=3717
+
+
+Oct 25 9:50pm
+	Got collision and score incrementing in! https://youtu.be/GfwpRU0cT10?t=4481
+	Playable. Nice. Just a little bit all the time.
+	Want to try and add some VFX juice.
+
+Nov 17th 
+	Oops it's been awhile!
+	
